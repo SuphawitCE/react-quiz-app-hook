@@ -1,0 +1,42 @@
+export const Questions = [
+  {
+    prompt: "เมืองหลวงของประเทศไทยชื่ออะไร",
+    optionA: "กรุงเทพ",
+    optionB: "ปักกิ่ง",
+    optionC: "ลอนดอน",
+    optionD: "เชียงใหม่",
+    asnwer: "optionA",
+  },
+  {
+    prompt: "โปรเจคนี้สร้างด้วยภาษาอะไร",
+    optionA: "Assembly",
+    optionB: "JavaScript",
+    optionC: "C",
+    optionD: "C#",
+    asnwer: "optionB",
+  },
+  {
+    prompt: "ข้อใดคือ Time Complexity ที่เร็วที่สุด",
+    optionA: "O(1)",
+    optionB: "O(n)",
+    optionC: "O(n!)",
+    optionD: "O(nlog n)",
+    asnwer: "optionA",
+  },
+  {
+    prompt: "FIFO (First-in First-out) หรือว่า เข้าก่อน ออกก่อน คือconcept ของโครงสร้างข้อมูลอะไร",
+    optionA: "Array",
+    optionB: "Queue",
+    optionC: "Stack",
+    optionD: "Tree",
+    asnwer: "optionB",
+  },
+  {
+    prompt: "LIFO (Last-in, First-out) หรือว่า เข้าก่อน ออกทีหลัง คือconcept ของโครงสร้างข้อมูลอะไร",
+    optionA: "Array",
+    optionB: "Queue",
+    optionC: "Stack",
+    optionD: "Tree",
+    asnwer: "optionC",
+  },
+];
